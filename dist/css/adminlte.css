@@ -52419,8 +52419,9 @@ a.text-muted:hover {
 /*# custom css */
 
 
-ion-icon {
-  
+.ion-custom {
+  font-size: 16px;
+  color: #17a2b8;
   
 }
 
